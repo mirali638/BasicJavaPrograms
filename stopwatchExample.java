@@ -1,14 +1,3 @@
-// Write a program that defines class named StopWatch. The class contains:
-// • Private data fields startTime and endTime with getter methods.
-// • no-arg constructor that initializes startTime with the current time.
-// • A method named start() that resets the startTime to the current time.
-// • A method named stop() that sets the endTime to the current time.
-// • A method named getElapsedTime() that returns the elapsed time for 
-// the stopwatch in milliseconds.
-// • Declare object of StopWatch to demonstrate stop watch.
-// Hint: Use System.currentTimeMillis() to get current time in milliseconds
-
-
 class stopwatch {
     // Private data fields
     private long startTime;
