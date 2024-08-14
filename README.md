@@ -1,3 +1,3 @@
 # BasicJavaPrograms
 
-This repository contains a collection of basic Java programs that I learned during my college coursework. The programs cover fundamental concepts and serve as a practical guide for anyone who is starting with Java programming.
+This repository contains basic Java programs from my college coursework, covering fundamental concepts for beginners. It also includes solutions to some LeetCode algorithm problems for additional practice.
